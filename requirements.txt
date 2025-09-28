@@ -1,4 +1,4 @@
-myenvpython-dotenv
+python-dotenv
 pandas
 numpy
 pymongo
